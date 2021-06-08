@@ -5760,7 +5760,7 @@ native-x-text@^1.0.3:
     native-x-theme "^1.0.6"
     tachyons-react-native "^1.0.4"
 
-native-x-theme@^1.0.6, native-x-theme@^1.0.8:
+native-x-theme@^1.0.6:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/native-x-theme/-/native-x-theme-1.0.8.tgz#3694a359c0d0f86d65791438747f4e13bc78840a"
   integrity sha512-AV6lEt1Pb2kfxtLvG7oqymvmI6BBcTHE3yXRgjsmUGU4uxGgF8F2BDT99Y6gdWJTq+IYuektexec6zkLKPNEdA==
